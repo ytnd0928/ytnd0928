@@ -68,12 +68,15 @@ FW
 URL
 ------------------------------------------------------------------------
 ・Qiita account
+  
 https://qiita.com/ytnd0928
 
 ・movies
+  
 https://yetianxiongfei.wixsite.com/my-site
 
 ・Twitter account
+  
 https://twitter.com/nodachan9
   
   </p>
