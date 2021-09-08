@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://github.com/ytnd0928" target="_blank">
-  <back-ground img src="career.png">
+  <img src="career.png">
 </a>
   
 <p>
