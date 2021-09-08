@@ -17,8 +17,8 @@
 <a href="https://github.com/ytnd0928" target="_blank">
   <img src="https://grass-graph.moshimo.works/images/ytnd0928.png?rotate=0">
 </a>
-</div>
---------------------------------------------------------------------
+  
+
 PROFILE
 --------------------------------------------------------------------
 
@@ -52,6 +52,8 @@ https://yetianxiongfei.wixsite.com/my-site
 
 ・Twitter account
 https://twitter.com/nodachan9
+
+</div>
 
 
 
