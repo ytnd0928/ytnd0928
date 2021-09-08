@@ -1,5 +1,6 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ytnd0928/posts.svg)](http://qiita.com/ytnd0928) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ytnd0928/contributions.svg)](http://qiita.com/tynd0928) [![My Qiita followers](https://qiita-badge.apiapi.app/s/ytnd0928/followers.svg)](http://qiita.com/ytnd0928)
 
+<div>
 <p>
   <a href="https://twitter.com/nodachan9" target="_blank">
     <img alt="Twitter: nodachan9" src="https://img.shields.io/twitter/follow/nodachan9.svg?style=social" />
@@ -16,6 +17,7 @@
 <a href="https://github.com/ytnd0928" target="_blank">
   <img src="https://grass-graph.moshimo.works/images/ytnd0928.png?rotate=0">
 </a>
+</div>
 
 --------------------------------------------------------------------
 PROFILE
