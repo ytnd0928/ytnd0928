@@ -18,7 +18,7 @@
   <img src="https://grass-graph.moshimo.works/images/ytnd0928.png?rotate=0">
 </a>
   
-
+<p>
 PROFILE
 --------------------------------------------------------------------
 
@@ -52,6 +52,8 @@ https://yetianxiongfei.wixsite.com/my-site
 
 ・Twitter account
 https://twitter.com/nodachan9
+  
+  </p>
 
 </div>
 
