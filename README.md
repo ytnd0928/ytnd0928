@@ -1,7 +1,5 @@
 大学3年生 男
-
 web engineer
-
 movie creator
 
 Professional Boxer (former)
