@@ -11,7 +11,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ytnd0928&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928&theme=orange" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928&theme=cobalt" />
 </a>
 
 <a href="https://github.com/ytnd0928" target="_blank">
