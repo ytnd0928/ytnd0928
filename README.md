@@ -48,7 +48,7 @@ FW
 URL
 ------------------------------------------------------------------------
   
-  ・Portforio
+  ・Portforio site
   
   https://nodachan.herokuapp.com/
   
