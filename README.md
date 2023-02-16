@@ -6,9 +6,9 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ytnd0928&show_icons=true&theme=highcontrast" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928&theme=highcontrast" />
 </a>
