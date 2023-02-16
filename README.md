@@ -16,6 +16,7 @@
 <p>
   <a href="https://honzaap.github.io/GithubCity/?name=ytnd0928&year=2023">
     my github city
+    <img src="city.png" />
   </a>
 </p>
 
