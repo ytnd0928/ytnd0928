@@ -5,10 +5,6 @@
   <a href="https://twitter.com/nodachan9" target="_blank">
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928
-)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928&theme=highcontrast" />
 </a>
