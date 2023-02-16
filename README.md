@@ -3,7 +3,6 @@
 <div>
 <p>
   <a href="https://twitter.com/nodachan9" target="_blank">
-    <img alt="Twitter: nodachan9" src="https://img.shields.io/twitter/follow/nodachan9.svg?style=social" />
   </a>
 </p>
 
