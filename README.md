@@ -12,7 +12,7 @@
 <a href="https://github.com/ytnd0928" target="_blank">
 
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ytnd0928)](https://github.com/ytnd0928/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ytnd0928)](https://github.com/ytnd0928/github-profile-trophy) -->
 <!-- <p>
   <a href="https://honzaap.github.io/GithubCity/?name=ytnd0928&year=2023">
     my github city↓↓
