@@ -5,21 +5,13 @@
   <a href="https://twitter.com/nodachan9" target="_blank">
   </a> -->
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytnd0928&theme=highcontrast" />
-</a>
+
 
 <a href="https://github.com/ytnd0928" target="_blank">
 
 </a>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ytnd0928)](https://github.com/ytnd0928/github-profile-trophy) -->
 <p>
-  <a href="https://honzaap.github.io/GithubCity/?name=ytnd0928&year=2023">
-    my github city↓↓
-    <p>
-    <img src="city.png" />
-    </p>
-  </a>
 </p>
 
 <img src="github-user-contribution.svg" />
