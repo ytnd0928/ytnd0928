@@ -13,8 +13,6 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ytnd0928)](https://github.com/ytnd0928/github-profile-trophy) -->
 <p>
 </p>
-
-<img src="github-user-contribution.svg" />
 </div>
 
 
